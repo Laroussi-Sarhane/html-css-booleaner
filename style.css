@@ -1,6 +1,6 @@
 body{
   margin: auto;
-  width: 1500px;
+  width: 1400px;
   color: black;
   font-size: 15px;
 }
@@ -30,4 +30,28 @@ p{
   font-size: 20px;
 
 }
-  
+table{
+  text-align: center;
+}
+table thead{
+  color: white;
+  background-color: rgb(4, 148, 148);
+  width: .8em;
+}
+table .mini{
+  width: 300px;
+  height: 50px;
+}
+table .last{
+  width: 700px;
+  height: 50px;
+}
+table .color-blu{
+  background-color: antiquewhite;
+}
+.second-background{
+  background-color: yellow;
+}
+h3{
+  color: grey;
+}
