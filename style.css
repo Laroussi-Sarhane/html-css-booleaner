@@ -55,3 +55,16 @@ table .color-blu{
 h3{
   color: grey;
 }
+.image1{
+  background-image: url(img/monitor.jpg);
+  width: 250px;
+  height: 200px;
+}
+.image2{
+  background-image: url(img/graph.jpg);
+  width: 250px;
+  height: 200px;
+}
+.bianco1{
+  color: white;
+}
