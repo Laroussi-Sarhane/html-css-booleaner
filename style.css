@@ -3,7 +3,13 @@ background-color: aqua;
   height: 150px;
   background-image:url(img/pattern.png)
 }
-.stickeer{
-  color: aliceblue;
+.author{
+  color: grey;
+}
+.the-booleaners{
+  color: aqua;
+}
+.title{
+  font: weight 15px; ;
 }
   
